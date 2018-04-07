@@ -4,6 +4,7 @@
 
 Having organized, easily reproduceable code is critical for effective data analysis. Besides the fact that many publishers require such code for publication, having transparent analysis is important for the integrity and validity of all scientific work (duh!). 
 
+inspired by [this](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) paper by William Stafford Noble
 
 ### Description
 The following repo contains a template for organizing projects. It is one among many possible organizational structures, but this one is intended to be as simple as possible. 
